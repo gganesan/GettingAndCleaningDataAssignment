@@ -604,4 +604,5 @@ Each feature below is the average of each variable.
 1. anglexgravitymean
 1. angleygravitymean
 1. anglezgravitymean
+
 ***
