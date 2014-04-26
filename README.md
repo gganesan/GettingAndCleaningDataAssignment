@@ -16,7 +16,7 @@ The run_analysis.R script is added and run from the "UCI HAR Dataset" folder
 
 #### What the script does?
 
-The script [*run_analysis.R*] does the following. 
+The [*script*](https://github.com/gganesan/GettingAndCleaningDataAssignment/blob/master/run_analysis.R) run_analysis.R does the following. 
 
 1. Merge the training and the test sets to create one data set  
     * Read the feature data from X_test.txt and X_train.txt
